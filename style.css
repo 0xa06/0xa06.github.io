@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body {
+    background: #1a1a1a;
+	box-sizing: border-box;
+    color: #ccc;
+	font-family: "Fira Code", monospace;
+	font-size: 15px;
+	letter-spacing: 1px;
+    line-height: 1.75em;
+	padding: 2em;
+}
+
+strong {
+    color: #fff;
+}
+
+a {
+    color: #2dedbd;
+    font-weight: 700;
+}
+
+p {
+    margin: 0 0 1.5em 0;
+}
